@@ -1,0 +1,9 @@
+c:\users\clyde\documents\visual studio 2015\Projects\HomeOverride\HomeOverride\bin\Debug\HomeOverride.exe.config
+c:\users\clyde\documents\visual studio 2015\Projects\HomeOverride\HomeOverride\obj\Debug\HomeOverride.StartupSeviceForm.resources
+c:\users\clyde\documents\visual studio 2015\Projects\HomeOverride\HomeOverride\obj\Debug\HomeOverride.Properties.Resources.resources
+c:\users\clyde\documents\visual studio 2015\Projects\HomeOverride\HomeOverride\obj\Debug\HomeOverride.csproj.GenerateResource.Cache
+c:\users\clyde\documents\visual studio 2015\Projects\HomeOverride\HomeOverride\bin\Debug\HomeOverride.exe
+c:\users\clyde\documents\visual studio 2015\Projects\HomeOverride\HomeOverride\bin\Debug\HomeOverride.pdb
+c:\users\clyde\documents\visual studio 2015\Projects\HomeOverride\HomeOverride\obj\Debug\HomeOverride.exe
+c:\users\clyde\documents\visual studio 2015\Projects\HomeOverride\HomeOverride\obj\Debug\HomeOverride.pdb
+c:\users\clyde\documents\visual studio 2015\Projects\HomeOverride\HomeOverride\obj\Debug\HomeOverride.csprojResolveAssemblyReference.cache

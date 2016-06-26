@@ -1,0 +1,18 @@
+c:\users\clyde\documents\visual studio 2015\Projects\HomeOverride\HomeOverride\bin\Release\HomeOverride.exe.config
+c:\users\clyde\documents\visual studio 2015\Projects\HomeOverride\HomeOverride\bin\Release\HomeOverride.exe
+c:\users\clyde\documents\visual studio 2015\Projects\HomeOverride\HomeOverride\bin\Release\HomeOverride.pdb
+c:\users\clyde\documents\visual studio 2015\Projects\HomeOverride\HomeOverride\obj\Release\HomeOverride.StartupSeviceForm.resources
+c:\users\clyde\documents\visual studio 2015\Projects\HomeOverride\HomeOverride\obj\Release\HomeOverride.Properties.Resources.resources
+c:\users\clyde\documents\visual studio 2015\Projects\HomeOverride\HomeOverride\obj\Release\HomeOverride.csproj.GenerateResource.Cache
+c:\users\clyde\documents\visual studio 2015\Projects\HomeOverride\HomeOverride\obj\Release\HomeOverride.exe
+c:\users\clyde\documents\visual studio 2015\Projects\HomeOverride\HomeOverride\obj\Release\HomeOverride.pdb
+C:\Users\Clyde\Documents\Visual Studio 2015\Projects\HomeOverride\HomeOverride\obj\Release\HomeOverride.csprojResolveAssemblyReference.cache
+C:\Users\Clyde\Documents\GitHub\HomeOverride\HomeOverride\bin\Release\HomeOverride.exe.config
+C:\Users\Clyde\Documents\GitHub\HomeOverride\HomeOverride\obj\Release\HomeOverride.exe
+C:\Users\Clyde\Documents\GitHub\HomeOverride\HomeOverride\obj\Release\HomeOverride.pdb
+C:\Users\Clyde\Documents\GitHub\HomeOverride\HomeOverride\bin\Release\HomeOverride.exe
+C:\Users\Clyde\Documents\GitHub\HomeOverride\HomeOverride\bin\Release\HomeOverride.pdb
+C:\Users\Clyde\Documents\GitHub\HomeOverride\HomeOverride\obj\Release\HomeOverride.csprojResolveAssemblyReference.cache
+C:\Users\Clyde\Documents\GitHub\HomeOverride\HomeOverride\obj\Release\HomeOverride.HomeOverrideForm.resources
+C:\Users\Clyde\Documents\GitHub\HomeOverride\HomeOverride\obj\Release\HomeOverride.Properties.Resources.resources
+C:\Users\Clyde\Documents\GitHub\HomeOverride\HomeOverride\obj\Release\HomeOverride.csproj.GenerateResource.Cache
