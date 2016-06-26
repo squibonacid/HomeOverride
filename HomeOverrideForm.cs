@@ -19,7 +19,9 @@ namespace HomeOverride {
             homeOverrideProgram = new HomeOverrideProgram(this);
             contextMenu = new ContextMenu();
             MenuItem m1 = contextMenu.MenuItems.Add("Open");
-            m1.Click += new System.EventHandler(this.notifyIcon_DoubleClick);
+            MenuItem m2 = contextMenu.MenuItems.Add("Close");
+            m1.Click += new EventHandler(notifyIcon_DoubleClick);
+            m2.Click += new EventHandler(Close);
             notifyIcon.ContextMenu = contextMenu;
 
             tooltip_application.SetToolTip(label_AppName, "Select application that you want to launch when Oculus Home is starting or the hotkey is pressed");
@@ -279,6 +281,10 @@ namespace HomeOverride {
 
         }
 
+        public void MinimizeToTray() {
+            WindowState = FormWindowState.Minimized;
+        }
+
         #region events
         protected override void WndProc(ref Message m) {
             if (m.Msg == GlobalHotKey.WM_HOTKEY_MSG_ID) {
@@ -286,14 +292,14 @@ namespace HomeOverride {
             }
             base.WndProc(ref m);
         }
-
-        public void MinimizeToTray() {
-            WindowState = FormWindowState.Minimized;
-        }
-
-        private void StartupSeviceForm_Resize(object sender, System.EventArgs e) {
+        
+        private void StartupSeviceForm_Resize(object sender, EventArgs e) {
             if (FormWindowState.Minimized == WindowState)
                 Hide();
+        }
+
+        private void Close(object sender, EventArgs e) {
+            this.Close();
         }
 
         private void notifyIcon_DoubleClick(object sender, MouseEventArgs e) {
@@ -301,7 +307,7 @@ namespace HomeOverride {
             WindowState = FormWindowState.Normal;
         }
 
-        private void notifyIcon_DoubleClick(object sender, System.EventArgs e) {
+        private void notifyIcon_DoubleClick(object sender, EventArgs e) {
             Show();
             WindowState = FormWindowState.Normal;
         }
